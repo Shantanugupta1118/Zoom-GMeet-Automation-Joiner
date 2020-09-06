@@ -1,5 +1,6 @@
 # Zoom-GMeet-Automation-Joiner
 
+`"I don't think necessity is the mother of invention. The invention, in my opinion, arises directly from idleness, possibly also from laziness - to save oneself trouble.", said #Agatha_Christie`
 
 An Automation script to automatically join a scheduled zoom meeting at a specific time without manual labour. This one's for all the lazy people like me who don't like waking up too early for zoom classes by the college.
 
