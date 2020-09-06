@@ -6,7 +6,8 @@ An Automation script to automatically join a scheduled zoom meeting at a specifi
 ## Requirements 
 - [x] Installed python version above 3.5
 - [x] Installed pyautogui package
-- [x] Installed schedule package
+- [x] Installed pandas package
+- [x] Installed webbrowser package
 - [x] Updated Zoom Software (Signed in)
 
 #### To install the above packages :
