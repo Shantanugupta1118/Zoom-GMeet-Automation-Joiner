@@ -12,7 +12,9 @@ An Automation script to automatically join a scheduled zoom meeting at a specifi
 #### To install the above packages :
 + To [Download Python](https://www.python.org/downloads/)
 + `pip install pyautogui`
-+ `pip install schedule`
++ `pip install pandas`
++ `pip install webbrowser`
+
 + To [Download Zoom Software](https://zoom.us/download#client_4meeting)
 
 ## Setting up configurations :
@@ -31,7 +33,7 @@ An Automation script to automatically join a scheduled zoom meeting at a specifi
 # How to run the program :
 ##### Clone this repository and unzip it
 
-* Make sure the `joinING.png` is located in the same folder as `main.py`
+* Make sure the All images conatain in `img` folder located in the same folder as `main.py`
 * Run the `main.py` to run the program
 * *Finally after the cmd is opened read the instructions thoroughly and proceed by entering your zoom meeting info*
 * *Make sure you enter the "Meeting ID and Meeting Password" correctly or else the program would crash*
