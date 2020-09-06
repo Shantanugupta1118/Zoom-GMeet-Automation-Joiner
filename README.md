@@ -19,7 +19,7 @@ An Automation script to automatically join a scheduled zoom meeting at a specifi
 
 + To [Download Zoom Software](https://zoom.us/download#client_4meeting)
 
-## Setting up configurations :
+## Setting up configurations for Zoom :
 
 #### Make sure the Zoom settings are as follows
 ##### Set the Audio Settings as follows :
@@ -32,6 +32,7 @@ An Automation script to automatically join a scheduled zoom meeting at a specifi
 ##### Set the Video Settings as follows :
 <img src = "Configurations/video.png" width = "600">
 
+### For Google Meet Not required any configuration settings it will auto mute audio and video before joining
 # How to run the program :
 ##### Clone this repository and unzip it
 
