@@ -1,6 +1,6 @@
 # Zoom-GMeet-Automation-Joiner
 
-# Zoom-Automation ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/prashanth-up/Zoom-Automation&title=Views)
+
 An Automation script to automatically join a scheduled zoom meeting at a specific time without manual labour. This one's for all the lazy people like me who don't like waking up too early for zoom classes by the college.
 
 ## Requirements 
@@ -19,19 +19,20 @@ An Automation script to automatically join a scheduled zoom meeting at a specifi
 
 #### Make sure the Zoom settings are as follows
 ##### Set the Audio Settings as follows :
-<img src = "configurations/zoom_audio.png" width = "600">
+<img src = "Configurations/audio.png" width = "600">
 
+###### Blue Highlight:
+* It is an Optional Check for If you want to show in mid or according to sorting by roll number/Serial number Select this option
+* If you don't select this option you'll be at bottom of the participant list
+ 
 ##### Set the Video Settings as follows :
-<img src = "configurations/zoom_vid.png" width = "600">
+<img src = "Configurations/video.png" width = "600">
 
 # How to run the program :
 ##### Clone this repository and unzip it
-* Open the run.bat and set the paths
-  * First Path - "Path to where python is located"
-  * Second Path - "Path to where the main.py is located"
-* Make sure the `joinING.png` is located in the same folder as `main.py` and `run.bat`
-* Run the `run.bat` to run the batch file
-  * Alternatively you can also run the `main.py` for the same result but `run.bat` is preferred
+
+* Make sure the `joinING.png` is located in the same folder as `main.py`
+* Run the `main.py` to run the program
 * *Finally after the cmd is opened read the instructions thoroughly and proceed by entering your zoom meeting info*
 * *Make sure you enter the "Meeting ID and Meeting Password" correctly or else the program would crash*
 * Format for the Recurring Meeting Time should be in 24 Hour format
